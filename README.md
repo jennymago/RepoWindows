@@ -1,5 +1,5 @@
 RepoWindows
-Este es mi archivos de leeme
+Este es mi archivo de readme
 ===========
 
 Repositorio en windows
